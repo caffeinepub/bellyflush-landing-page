@@ -11,39 +11,39 @@
 
 @layer base {
   :root {
-    --radius: 0.75rem;
-    /* Navy #0F2F4E */
-    --primary: 0.25 0.065 240;
+    --radius: 0.5rem;
+    /* Deep red brand #B11E2A */
+    --primary: 0.4 0.16 25;
     --primary-foreground: 0.99 0 0;
-    /* Page bg #F3F6F8 */
-    --background: 0.968 0.008 220;
-    --foreground: 0.15 0 0;
+    /* Page bg white/off-white */
+    --background: 0.98 0 0;
+    --foreground: 0.12 0 0;
     /* Card white */
     --card: 1 0 0;
-    --card-foreground: 0.15 0 0;
+    --card-foreground: 0.12 0 0;
     --popover: 1 0 0;
-    --popover-foreground: 0.15 0 0;
+    --popover-foreground: 0.12 0 0;
     /* Secondary/muted */
-    --secondary: 0.94 0.01 220;
-    --secondary-foreground: 0.25 0.065 240;
-    --muted: 0.94 0.01 220;
-    --muted-foreground: 0.52 0.02 225;
-    /* Gold accent #F2C94C */
-    --accent: 0.85 0.16 85;
-    --accent-foreground: 0.15 0 0;
-    --destructive: 0.577 0.245 27.325;
-    --destructive-foreground: 0.985 0 0;
-    --border: 0.9 0.01 220;
-    --input: 0.9 0.01 220;
-    --ring: 0.25 0.065 240;
-    --chart-1: 0.646 0.222 41.116;
+    --secondary: 0.96 0 0;
+    --secondary-foreground: 0.12 0 0;
+    --muted: 0.95 0 0;
+    --muted-foreground: 0.5 0 0;
+    /* Accent rose/blush */
+    --accent: 0.93 0.02 25;
+    --accent-foreground: 0.12 0 0;
+    --destructive: 0.4 0.16 25;
+    --destructive-foreground: 0.99 0 0;
+    --border: 0.91 0 0;
+    --input: 0.91 0 0;
+    --ring: 0.4 0.16 25;
+    --chart-1: 0.4 0.16 25;
     --chart-2: 0.6 0.118 184.704;
     --chart-3: 0.398 0.07 227.392;
     --chart-4: 0.828 0.189 84.429;
     --chart-5: 0.769 0.188 70.08;
     --sidebar: 0.985 0 0;
     --sidebar-foreground: 0.145 0 0;
-    --sidebar-primary: 0.205 0 0;
+    --sidebar-primary: 0.4 0.16 25;
     --sidebar-primary-foreground: 0.985 0 0;
     --sidebar-accent: 0.97 0 0;
     --sidebar-accent-foreground: 0.205 0 0;
