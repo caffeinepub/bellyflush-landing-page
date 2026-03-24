@@ -27,7 +27,7 @@ import { useState } from "react";
 
 const ORDER_LINK = "https://official-glycolean.com/";
 const PRODUCT_IMAGE =
-  "/assets/uploads/image-019d1f46-fd3f-7026-b6e9-b38d1b7bc123-1.png";
+  "/assets/uploads/image-019d1fec-a40b-70eb-aa95-80c17e5769ee-1.png";
 const PRICING_IMAGE =
   "/assets/uploads/image-019d1f5c-7f55-77ca-b12a-f6774ef4663a-1.png";
 
